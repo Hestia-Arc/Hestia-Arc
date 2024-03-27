@@ -1,6 +1,6 @@
-### Welcome I'm excited to have you here. 👋
+#### Welcome I'm excited to have you here. 👋
 
-# Frontend-web Developer
+
 <!--
 - 🔭 I’m currently working on a website for a restuarant landing page.
 
