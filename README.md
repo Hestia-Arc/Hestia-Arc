@@ -1,5 +1,23 @@
 #### Welcome I'm excited to have you here. 👋
 
+I'm Esther.
+
++ a lot more ;)
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Nodejs
+- ⚙️ React
+- 👁️ SASS, CSS, Bootstrap
+- 💽 Mongo
++ a lot more :D
+
+## Contact
+<!--
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@martonlederer](./) on Discord
+-->
+
 
 <!--
 - 🔭 I’m currently working on a website for a restuarant landing page.
