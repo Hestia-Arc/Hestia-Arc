@@ -1,3 +1,4 @@
+<div align="center" width="60%">
 ## I'm [Esther][homepage]
 
 <p align="center">
@@ -8,7 +9,7 @@ A Frontend developer. I currently develop at Netwares Lab. I build modern and us
 
 [homepage]: https://react-portfolio-six-rho.vercel.app
 [twitter]: https://twitter.com/arc_hestia00
-
+</div
 
 
 ## Skills
