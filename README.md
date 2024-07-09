@@ -1,8 +1,13 @@
-#### Welcome I'm excited to have you here. 👋
+## I'm [Esther][homepage]
 
-I'm Esther.
+A Frontend developer. I currently develop at Netwares Lab. I build modern and user-friendly applications & enjoy learning new things. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
 
-+ a lot more ;)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hestia?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] 
+
+[homepage]: https://react-portfolio-six-rho.vercel.app
+[twitter]: https://twitter.com/arc_hestia00
+
+
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Nodejs
