@@ -2,7 +2,7 @@
 <h4> I'm <a href="https://react-portfolio-six-rho.vercel.app">Esther</a></h4>
 
 <p>
-A Frontend developer. I currently develop at Netwares Lab. I build modern and user-friendly applications & enjoy learning new things. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
+A Frontend developer who builds modern and user-friendly applications & enjoy learning new things. Reach out to me on socials if you'd like to talk ✌️
 </p>
 
 
