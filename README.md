@@ -1,5 +1,4 @@
-<div align="center" width="60%">
-## I'm [Esther][homepage]
+<h3 align="center"> I'm <a href="https://react-portfolio-six-rho.vercel.app">Esther</a></h3>
 
 <p align="center">
 A Frontend developer. I currently develop at Netwares Lab. I build modern and user-friendly applications & enjoy learning new things. Reach out to me on [twitter][twitter] if you'd like to talk ✌️
@@ -7,9 +6,7 @@ A Frontend developer. I currently develop at Netwares Lab. I build modern and us
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hestia?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] 
 
-[homepage]: https://react-portfolio-six-rho.vercel.app
 [twitter]: https://twitter.com/arc_hestia00
-</div
 
 
 ## Skills
