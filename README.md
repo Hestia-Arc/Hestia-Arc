@@ -14,8 +14,8 @@ A Frontend developer who builds modern and user-friendly applications & enjoy le
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Nodejs
 - ⚙️ React
-- 👁️ SASS, CSS, Bootstrap
-- 💽 Mongo
+- 👁️ SASS, CSS, Bootstrap, Material UI, ChakraUI
+- 💽 MongoDB, PostgreSQL
 + a lot more :D
 
 ## Contact
